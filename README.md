@@ -1,10 +1,10 @@
 # Alfred-make-UUID
+This is a workflow for the excellent macOS app Alfred (https://www.alfredapp.com)
 
-This is a workflow for the excellent MacOS app Alfred (https://www.alfredapp.com)
+The workflow is no more than a shortcut for the bash command `uuidgen`.
 
-The workflow is no more than a shortcut for the bash command uuidgen.
-
-#
+## Added in this fork
+An option to create the UUID from a text snippet straight into the current text box (default is `;uuid`) 
 
 # Installation
 - Download the .workflow file from the releases page.
